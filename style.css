@@ -1,0 +1,21 @@
+.Lista {
+    background-color: azure;
+    padding: 10px;
+    border: 0;
+    margin: 40px;
+}
+.produtos {
+    font-size: 35px;
+    padding: 8px;
+    margin: 15px;
+}
+
+.valor {
+    font-size: 40px;
+}
+
+.valor-total {
+    font-size: 35px;
+    padding: 20px;
+    font-weight: 400;
+}
